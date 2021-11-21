@@ -2,7 +2,7 @@
 
 Unfortunately, The Github is without category for github stars.
 
-That is bring many trouble for me.
+It caused me a lot of trouble.
 
 In my daily work, When I have a problem, I remember I saw the solution in my github stars.
 
@@ -14,7 +14,7 @@ If help for you, I will feel very happy and honored.
 
 **The current progress is web-highlight**.
 
-##  :file_folder: Browser
+## :file_folder: Browser
 
 ### MVVM Framework
 
@@ -48,7 +48,7 @@ If help for you, I will feel very happy and honored.
 - [nedb](https://github.com/louischatriot/nedb) Embedded persistent or in memory database for Node.js, nw.js, Electron and browsers.
 - [InversifyJS](https://github.com/inversify/InversifyJS) DI Container for Javascript & Node.js.
 - [immutable-js](https://github.com/immutable-js/immutable-js) Immutable collections for JavaScript.
-- [hammer.js ](http://hammerjs.github.io/) A javascript library for multi-touch gestures.
+- [hammer.js](http://hammerjs.github.io/) A javascript library for multi-touch gestures.
 
 ### Micro Front End Framework
 
@@ -121,8 +121,6 @@ If help for you, I will feel very happy and honored.
 - [carbon](https://github.com/carbon-app/carbon) A code share tools, it can help you generate beautiful code screenshots.
 - [revoke message for wechat](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-
-
 ## :file_folder:Other Awesome Project
 
 - [vite awesome](https://github.com/vitejs/awesome-vite)
@@ -133,8 +131,8 @@ If help for you, I will feel very happy and honored.
 ## :file_folder:Knowledge
 
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Linux Command](https://github.com/jaywcjlove/linux-command) 
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university) 
+- [Linux Command](https://github.com/jaywcjlove/linux-command)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Daily Question(Interview Question)](https://github.com/shfshanyue/Daily-Question)
 - [2020 Web Developer Roadmap](https://github.com/ccloli/developer-roadmap-zh-CN)
@@ -144,4 +142,3 @@ If help for you, I will feel very happy and honored.
 ### Wow
 
 - [simc](https://github.com/simulationcraft/simc) SimulationCraft is a tool to explore combat mechanics in the popular MMO RPG World of Warcraft
-
