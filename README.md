@@ -8,7 +8,7 @@ In my daily work, When I have a problem, I remember I saw the solution in my git
 
 When I want to find it, but always difficult.
 
-So I create this project, Simplify my search time.
+So I create this project to reduce my search time.
 
 If help for you, I will feel very happy and honored.
 
