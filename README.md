@@ -14,7 +14,7 @@ If help for you, I will feel very happy and honored.
 
 **The current progress is web-highlight**.
 
-## Browser
+##  :file_folder: Browser
 
 ### MVVM Framework
 
@@ -78,20 +78,20 @@ If help for you, I will feel very happy and honored.
 
 - [web highlighter](https://github.com/alienzhou/web-highlighter) it's from an idea: highlight texts on the website and save the highlighted areas just like what you do in PDF.
 
-## Nodejs
+## :file_folder:Nodejs
 
 ### Pack Framework
 
 - [esbuild](https://github.com/evanw/esbuild) A so so so so so so fast javascript bundler.
 - [rollup](https://github.com/rollup/rollup) A popular javascript bundler, used in vite.
 
-## Project Management
+## :file_folder:Project Management
 
 ### Monorepos
 
 - [rush stack](https://github.com/microsoft/rushstack) Microsoft monorepos manage tool.
 
-## Efficiency
+## :file_folder:Efficiency
 
 ### Low Code
 
@@ -123,14 +123,14 @@ If help for you, I will feel very happy and honored.
 
 
 
-## Other Awesome Project
+## :file_folder:Other Awesome Project
 
 - [vite awesome](https://github.com/vitejs/awesome-vite)
 - [rollup awesome](https://github.com/rollup/awesome)
 - [react awesome](https://github.com/enaqx/awesome-react)
 - [electron awesome](https://github.com/sindresorhus/awesome-electron)
 
-## Knowledge
+## :file_folder:Knowledge
 
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Linux Command](https://github.com/jaywcjlove/linux-command) 
